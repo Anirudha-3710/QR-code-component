@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #ECF2FF;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.qr-box {
+    background-color: white;
+    width: 16vw;
+    height: 50vh;
+    margin: 6% auto;
+    border-radius: 10px;
+}
+
+.qr-code-img {
+    width: 14.5vw;
+    border-radius: 10px;
+    margin: 9px auto;
+}
+
+h2 {
+    width: 60%;
+    margin: 5px auto;
+}
+
+p {
+    color: #DDDDDD;
+    width: 80%;
+    font-size: 0.70rem;
+    font-weight: normal;
+    margin: 4px auto;
+}
